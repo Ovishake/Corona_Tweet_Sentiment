@@ -16,3 +16,9 @@ Link to Kaggle competition Page:
   
 * The project also evaluates the model performance by plotting class-wise ROCs
 * The model was not evaluated for latency or deployed on cloud platforms
+
+## For more information about me
+
+Follow me on Instagram:
+###  [https://www.instagram.com/ovishake2020/?hl=en]( https://www.instagram.com/ovishake2020/?hl=en )
+###  [https://ovishake.com] ( https://ovishake.com )
